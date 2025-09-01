@@ -2,7 +2,7 @@ Overview
 
 This project provides an in-depth analysis of the Indian Premier League (IPL) using historical match, player, and team data. It uncovers insights into team performances, toss impacts, player achievements (Orange Cap & Purple Cap), and overall trends across multiple IPL seasons.
 
- Dataset
+Dataset
 
 The analysis is based on the following CSV files:
 
@@ -37,7 +37,8 @@ Libraries: Pandas, NumPy, Matplotlib
  Visual Insights – Graphical representation of team dominance and player consistency.
 
  Machine Learning Prediction:
- Preprocessed IPL datasets (matches.csv, deliveries.csv, teams_data.csv).
+ 
+Preprocessed IPL datasets (matches.csv, deliveries.csv, teams_data.csv).
 
 Engineered features such as toss winner, venue, and team performance stats.
 
